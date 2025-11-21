@@ -126,23 +126,6 @@ http://51.89.166.17:3002/index.php?id=nbatv
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Test",Sony Sports 1 
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Test",Sony Sports 2
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="Test",Sony Sports 3
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="Test",Sony Sports 4
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="Sport Update",TNT SPORTS 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="Sport Update",TNT SPORTS 2
@@ -165,3 +148,140 @@ http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:5
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0P4UHRj.jpg" group-title="Sport Update",SONY TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp" group-title="LIVE TV", Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="LIVE TV", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="LIVE TV", Goldmines Bollywood
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="LIVE TV", GoldMines Movies
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/239.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
+https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/XJDT6J2j/HINDI-HITS-HD.png",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="64" group-title="DISH D2H by CRICFy",Zee Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=880942c12bea180e5c6f055bc18d4da7&drm=true
+#EXTVLCOPT:http-user-agent=KAIOS
+http://watchindia.net:8880/live/40972/04523/822.m3u8
+
+#EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="zee-bollywood" group-title="Movies",Zee Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bollywood/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bollywood/manifest.mpd
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
+#http://starshare.live/live/bana/bana/98858.m3u8
+#https://starshare.live/live/bana/bana/9375.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldHd.m3u8
+https://rex-streaming.vercel.app/api/x/109959.m3u8
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGold2Hd.m3u8
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldSelectHd.m3u8
+https://rex-streaming.vercel.app/api/x/109960.m3u8
+
+#EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://la.drmlive.au/tp/zee-209.m3u8 
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/%26XplorHd.m3u8
+#https://live.drmlive-02.workers.dev/zee/209.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/%26XplorHd.m3u8
+
+#EXTINF:-1 tvg-id="andpicturehd.in" tvg-logo="" group-title="Hindi Movies",And Picture Hd
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/andPictureHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Hindi Movies",Sony Max HD 
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Hindi Movies",Sony Max2 HD 
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema
+#https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeCinemaHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Bolly Movies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="English Movie",&Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://la.drmlive.au/tp/zee-9z5543514.m3u8 
+#https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndPrideHd.m3u8
+#https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="English Movie",&flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndFlixHd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="English Movie",Sony pix HD 
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/Sony%20pix%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Star World
+https://rex-streaming.vercel.app/api/x/109971.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies
+https://rex-streaming.vercel.app/api/x/109970.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Movies HD Now
+https://rex-streaming.vercel.app/api/x/109968.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", MN+ HD
+https://rex-streaming.vercel.app/api/x/109965.m3u8
