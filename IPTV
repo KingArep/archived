@@ -200,43 +200,6 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",MN+ HD-Rs 8
-http://103.61.73.220:8000/play/a04b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",MNX - Rs 5
-http://103.61.73.220:8000/play/a09m
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",MOVIES NOW-Rs10
-http://103.61.73.220:8000/play/a09n
-
-#EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
-#http://95.211.160.36:7388/Sony%20Max.php?e=.m3u8
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",SET MAX HD
-#http://tv.bdiptv.store/live/restream/restreamkk/23.m3u8
-#https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-http://116.90.120.149:8000/play/a0bw/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", SONY PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", SONY MAX HD
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", &PRIVE HD
-https://la.drmlive.net/tp/zee-9z5543514.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", &FLIX HD
-https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", &FLIX SD
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", ASTRO SHOWCASE
-https://dl.dropboxusercontent.com/scl/fi/q17f8p1vmpjub18n35v20/showcase.m3u8?rlkey=5jh80h4jrxob7jf3z1l3jwww1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", MOVIES NOW HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", MNX HD
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ", MN+ HD
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="ᴴᴰ",&flix  
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
@@ -245,8 +208,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="ᴴᴰ",MN+ 
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#####https://starshare.live:443/live/Winston123/Winston123/98847.ts
+https://starshare.live:443/live/Winston123/Winston123/98847.ts
 #####https://starshare.live:443/live/star123/star123/178.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
