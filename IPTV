@@ -68,7 +68,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="bollywood-classic" tvg-name="BollywoodClassic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" group-title="Test",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="ShemarooBollywood.in" tvg-logo="https://image.pngaaa.com/593/7139593-middle.png" group-title="Test",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="ShemarooBollywood.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NH Bollyflix" tvg-name="NH Bollyflix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Test",BollyFlix
@@ -155,10 +155,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 
 
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Test" group-title="Test" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp", Shemaroo Bollywood
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Test" group-title="Test" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Shemarooo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Test" group-title="Test" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
@@ -173,13 +173,13 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&flix  
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 
-#EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Test",&Flix HD
+#EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
 https://zozotv.xyz/live/faizal1998/zoz161/104.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&privé  
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
-#EXTINF:-1 tvg-id="&Prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Test",&Prive HD
+#EXTINF:-1 tvg-id="&Prive HD" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
 https://zozotv.xyz/live/faizal1998/zoz161/105.ts
 
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="Test",MN+ 
@@ -202,13 +202,13 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
 
-#EXTINF:-1 tvg-id="Sony PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Test",Sony PIX HD
+#EXTINF:-1 tvg-id="Sony PIX" tvg-name="Sony PIX" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony PIX HD
 https://zozotv.xyz/live/faizal1998/zoz161/298.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Test",Star Movies HD
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies HD
 https://zozotv.xyz/live/faizal1998/zoz161/299.ts
 
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
