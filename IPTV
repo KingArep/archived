@@ -173,23 +173,23 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp" group-title="LIVE TV", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="LIVE TV",B4U MUSIC 
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg" group-title="LIVE TV",Music India 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="LIVE TV", COLORS CINEPLEX BOLLYWOOD 
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/239.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="LIVE TV", COLORS CINEPLEX SUPERHITS 
 https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies" group-title="LIVE TV",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
