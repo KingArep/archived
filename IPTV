@@ -30,7 +30,7 @@ https://zozotv.xyz/live/faizal1998/zoz161/1866.ts
 
 ##############################################################################Astro Special####################################################################################
 
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://da.gd/ffliqlogo" group-title="Test", TV3
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
 
@@ -43,26 +43,37 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-id="Degup" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="Test",Degup
 https://zozotv.xyz/live/faizal1998/zoz161/1908.ts
+
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Test",Astro Boo
 https://zozotv.xyz/live/faizal1998/zoz161/408.ts
+
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="Test",Ceria
 https://zozotv.xyz/live/faizal1998/zoz161/31.ts
+
 #EXTINF:-1 tvg-id="104.astro" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="Test", Ria 
 https://zozotv.xyz/live/faizal1998/zoz161/532.ts
+
 #EXTINF:-1 tvg-id="105.astro" tvg-name="Prima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="Test",Prima
 https://zozotv.xyz/live/faizal1998/zoz161/34.ts
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="Test", Njoi Citra
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Test", Njoi Citra
 https://zozotv.xyz/live/faizal1998/zoz161/36.ts
+
 #EXTINF:-1 tvg-id="&Prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Test",&Prive HD
 https://zozotv.xyz/live/faizal1998/zoz161/105.ts
+
 #EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Test",&Flix HD
 https://zozotv.xyz/live/faizal1998/zoz161/104.ts
-#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Test",Sony PIX
+
+#EXTINF:-1 tvg-id="Sony PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Test",Sony PIX
 https://zozotv.xyz/live/faizal1998/zoz161/298.ts
+
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Test",Star Movies
 https://zozotv.xyz/live/faizal1998/zoz161/299.ts
+
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
 https://zozotv.xyz/live/faizal1998/zoz161/300.ts
+
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Test",Thrill
 https://zozotv.xyz/live/faizal1998/zoz161/112.ts
 
@@ -112,14 +123,22 @@ http://51.89.166.17:3002/index.php?id=go_badminton2
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Test",Astro Cricket
 http://51.89.166.17:3002/index.php?id=Acricket
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Test",NBC Golf
-http://51.89.166.17:3002/index.php?id=Agolf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ievPTzO.jpg" group-title="Sport Update",Astro Cricket
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Sport Update",Astro Badminton
+https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVooopM.jpg" group-title="Sport Update",Astro Arena
+https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Test",NBA TV
 http://51.89.166.17:3002/index.php?id=Nba
 http://51.89.166.17:3002/index.php?id=nbatv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Test",NBC Golf
+http://51.89.166.17:3002/index.php?id=Agolf
 
 #EXTINF:-1 xui-id="2539" tvg-id="" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/nmCstjd.jpg" group-title="Test",FANCODE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,33 +147,24 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="Sport Update",TNT SPORTS 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="Sport Update",TNT SPORTS 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="Sport Update",TNT SPORTS 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Sport Update",Astro Badminton
-https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVooopM.jpg" group-title="Sport Update",Astro Arena
-https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ievPTzO.jpg" group-title="Sport Update",Astro Cricket
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxeYwsn.jpg" group-title="Sport Update",SONY TEN 1
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="Sport Update",SONY TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8y41CC.jpg" group-title="Sport Update",SONY TEN 3 
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0P4UHRj.jpg" group-title="Sport Update",SONY TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-
-
-
-
-
-
-
 
 
 
@@ -163,25 +173,17 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp" group-title="LIVE TV", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="LIVE TV", Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="LIVE TV", Goldmines Bollywood
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="LIVE TV", GoldMines Movies
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/239.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
 https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
@@ -189,9 +191,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
@@ -208,8 +207,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="ᴴᴰ",MN+ 
-https://starshare.live:443/live/Winston123/Winston123/98847.ts
-#####https://starshare.live:443/live/star123/star123/178.ts
+https://starshare.live:443/live/star123/star123/178.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
