@@ -92,7 +92,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="South Station" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Test",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 tvg-id="YRFmusic.in" tvg-name="YRF Music" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg" group-title="Music",YRF Music
+#EXTINF:-1 tvg-id="YRFmusic.in" tvg-name="YRF Music" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg" group-title="Test",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Test",B4U Movies
