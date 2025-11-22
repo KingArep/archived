@@ -68,7 +68,7 @@ https://zozotv.xyz/live/faizal1998/zoz161/532.ts
 #EXTINF:-1 tvg-id="105.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
 https://zozotv.xyz/live/faizal1998/zoz161/34.ts
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Test",109 Citra Movies
+#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",109 Citra
 https://zozotv.xyz/live/faizal1998/zoz161/36.ts
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Test",Thrill
@@ -165,7 +165,7 @@ https://starshare.live:443/live/star123/star123/178.ts
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #####https://starshare.live:443/live/star123/star123/191.ts
 
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="Test",Movies Now
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="Test",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
@@ -189,20 +189,6 @@ https://zozotv.xyz/live/faizal1998/zoz161/299.ts
 https://zozotv.xyz/live/faizal1998/zoz161/300.ts
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Test" ch-number="108" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
-https://tinyurl.com/playcit0
 
 
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Test",Citra 
-https://jandatv.online/memfs/6d9e0ae0-7c82-4c6f-881c-2ac150f80c08.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",Citra 
-https://linearjitp.perfecttv.net/citra.mpd
-#####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 
