@@ -31,12 +31,12 @@ https://zozotv.xyz/live/faizal1998/zoz161/1866.ts
 ##############################################################################Astro Special####################################################################################
 
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
 
 
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://zozotv.xyz/live/faizal1998/zoz161/18.ts
 
 
@@ -53,16 +53,16 @@ https://zozotv.xyz/live/faizal1998/zoz161/1908.ts
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Test",Astro Boo
 https://zozotv.xyz/live/faizal1998/zoz161/408.ts
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="Test",Ceria
+#EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="Test",Ceria
 https://zozotv.xyz/live/faizal1998/zoz161/31.ts
 
-#EXTINF:-1 tvg-id="104.astro" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="Test", Ria 
+#EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="Test", Ria 
 https://zozotv.xyz/live/faizal1998/zoz161/532.ts
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="Prima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="Test",Prima
+#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="Test",Prima
 https://zozotv.xyz/live/faizal1998/zoz161/34.ts
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Test", Njoi Citra
+#EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Test", Njoi Citra
 https://zozotv.xyz/live/faizal1998/zoz161/36.ts
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Test",Thrill
@@ -74,15 +74,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="bollywood-classic" tvg-name="BollywoodClassic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" group-title="Test",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="ShemarooBollywood.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="ShemarooBollywood.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Shemaroo Bollywood 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Test" group-title="Test" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png", Shemaroo Bollywood
+#EXTINF:-1 tvg-id="ShemarooBollywood" tvg-name="ShemarooBollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png", Shemaroo Bollywood 1
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Test",Shemarooo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="NH Bollyflix" tvg-name="NH Bollyflix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Test",BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -90,11 +86,19 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="South Station" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Test",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
+#EXTINF:-1 tvg-id="YRFmusic" tvg-name="YRFmusic" group-title="Test" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Test",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Test",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 ##############################################################################Astro Sports####################################################################################
 
 
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="Test",RedBull TV
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="Test",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 xui-id="2539" tvg-id="" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/nmCstjd.jpg" group-title="Test",FANCODE TV
@@ -102,37 +106,29 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="Sport",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="Test",TNT SPORTS 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="Sport",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="Test",TNT SPORTS 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="Sport",TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports 3" tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="Test",TNT SPORTS 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxeYwsn.jpg" group-title="Sport",SONY TEN 1
+#EXTINF:-1 tvg-id="SonyTEN1" tvg-name="SonyTEN1" tvg-logo="https://i.imgur.com/SxeYwsn.jpg" group-title="Test",SONY TEN 1
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="Sport",SONY TEN 2
+#EXTINF:-1 tvg-id="SonyTEN2" tvg-name="SonyTEN2" tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="Test",SONY TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8y41CC.jpg" group-title="Sport",SONY TEN 3 
+#EXTINF:-1 tvg-id="SonyTEN3" tvg-name="SonyTEN3" tvg-logo="https://i.imgur.com/h8y41CC.jpg" group-title="Test",SONY TEN 3 
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0P4UHRj.jpg" group-title="Sport",SONY TEN 4
+#EXTINF:-1 tvg-id="SonyTEN4" tvg-name="SonyTEN4" tvg-logo="https://i.imgur.com/0P4UHRj.jpg" group-title="Test",SONY TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Test" group-title="Test" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 
 
@@ -141,42 +137,43 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&flix  
+
+#EXTINF:-1 tvg-id="&flix" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&flix  
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 
 #EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
 https://zozotv.xyz/live/faizal1998/zoz161/104.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&privé  
+#EXTINF:-1 tvg-id="&prive" tvg-name="&prive" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&privé  
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
 https://zozotv.xyz/live/faizal1998/zoz161/105.ts
 
-#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="Test",MN+ 
+#EXTINF:-1 tvg-id="ts210" tvg-name="MN+" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-title="Test",MN+ 
 https://starshare.live:443/live/star123/star123/178.ts
 
+#EXTINF:-1 tvg-id="ts599" tvg-name="MNX" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-title="Test",MNX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="Test",MNX
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #####https://starshare.live:443/live/star123/star123/191.ts
 
+#EXTINF:-1 tvg-id="ts173" tvg-name="Movies Now" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="Test",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="Test",Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="Test",MovieSphere By Lionsgate
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-name="MovieSphere By Lionsgate" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-title="Test",MovieSphere By Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix
+#EXTINF:-1 tvg-id="Sony PIX" tvg-name="Sony Pix" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
 
 #EXTINF:-1 tvg-id="Sony PIX" tvg-name="Sony PIX" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony PIX HD
 https://zozotv.xyz/live/faizal1998/zoz161/298.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies HD
@@ -184,43 +181,3 @@ https://zozotv.xyz/live/faizal1998/zoz161/299.ts
 
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
 https://zozotv.xyz/live/faizal1998/zoz161/300.ts
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Test",Astro Premier League
-http://51.89.166.17:3002/index.php?id=go_assp1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Test",Astro Premier League 2
-http://51.89.166.17:3002/index.php?id=go_assp2
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Test",Astro Football
-http://51.89.166.17:3002/index.php?id=go_assp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Astro Sports Plus
-http://51.89.166.17:3002/index.php?id=go_sportsplus
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Astro Badminton 1
-http://51.89.166.17:3002/index.php?id=go_badminton2
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Test",Astro Cricket
-http://51.89.166.17:3002/index.php?id=Acricket
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ievPTzO.jpg" group-title="Sport",Astro Cricket
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Sport",Astro Badminton
-https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVooopM.jpg" group-title="Sport",Astro Arena
-https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Test",NBA TV
-http://51.89.166.17:3002/index.php?id=Nba
-http://51.89.166.17:3002/index.php?id=nbatv
-
