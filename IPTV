@@ -267,7 +267,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
-#EXTINF:-1  tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" group-title="Test" group-logo="https://da.gd/ffliqsp" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title=" SPORTS PLUS",Man United TV
+#EXTINF:-1  tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" group-title="Test" group-logo="https://da.gd/ffliqsp" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Test",Man United TV
 https://get.perfecttv.net/mutv.mpd
 
 
