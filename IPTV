@@ -246,3 +246,160 @@ https://zozotv.xyz/live/faizal1998/zoz161/751.ts
 https://zozotv.xyz/live/faizal1998/zoz161/828.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Pengabdi Setan 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Test",Astro First 480 - Pengabdi Setan 2
 https://zozotv.xyz/live/faizal1998/zoz161/1866.ts
+
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 3
+https://tzh911.qzz.io/play-smt.php?id=TV3
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Astro_Ria_HD_%282015%29.png",Astro Ria
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Ria.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",Astro Sensasi
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Sensasi.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Astro_Prima_%282024%29.png",Astro Prima
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Prima.m3u8
+
+
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/bgWKDMS/unnamed-photoaidcom-cropped.png",STAR HD
+http://applelive.in/startv/startv.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_193440751344494344473689.png",THALAPATHY TV
+http://applelive.in/thalapathytv/thalapathytv.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1234424766834015397778281.png",S MAX UHD
+http://applelive.in/smaxtv/smaxtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Yn0JC0g/Whats-App-Image-2025-03-31-at-17-44-53-04d463b2.jpg" group-title="Tamil", MAX HD
+https://live.maxtn.in/maxhd/maxhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNG1GF9Z/icon.jpg" group-title="Tamil", MAX MOVIES HD
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/My6N3CMv/mhm.jpg" group-title="Tamil", MAX MUSIC
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvKb71Xr/Whats-App-Image-2025-02-22-at-17-05-18-65d6fd32-removebg-preview.png" group-title="Tamil", VANI TV HD
+https://live.maxtn.in/vanitv/vanitv/index.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png",RASI TV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1503465921584096719606043.png",RASI TAMIL
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942127817851833380019717.png",RASI COMEDY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasiclassic.png",RASI CLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasicinemax.png",RASI CINEMAX
+http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasiaction.png",RASI ACTION
+http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasicinema.png",RASI CINEMA
+http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasilifestyle.png",RASI LIFESTYLE
+http://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="",WIN TV
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png",STAR MOVIES
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+
+#EXTINF:1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andflix332-hd-03.png" group-title="Movies",&FLIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
+
+#EXTINF:1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andprive332hd-03.png" group-title="Movies",&PRIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-9z5543514.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="Movies",HOLLYWOOD DESI
+https://jmp2.uk/stvp-IN3800010SH
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/600x337.webp?type=channelTile" group-title="Movies",XUMO BOLLYWOOD CINEMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="ts120" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
