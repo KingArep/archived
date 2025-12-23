@@ -342,6 +342,43 @@ http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/35244.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies", Thrill
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies", Thrill (HD) 
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://poc-cf-image.cjenm.com/public/share/metamng/channel/ocn%20movie_color_118x50.png" group-title="General", OCN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=817839de27764deb879c65c571c19226:2b1443f33c919c89429a21259974a224
+http://ocnmovies-drm2-mcdn.tving.com/ocnmovies_drm/live5000.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://poc-cf-image.cjenm.com/public/share/metamng/channel/ocn%20movies2_color_118x50.png" group-title="General", OCN Movies 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
+http://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="General", &flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="General", &flix SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="General", &Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-9z5543514.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="General", &Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-tvpictureshd.m3u8
+
+#EXTINF: tvg-logo="https://i.ibb.co/qYw7ZgLf/image.png" group-title="General", Miramax
+https://raw.githubusercontent.com/xaaMee/ee/main/mrmx.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="📺 | MOVIES",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
