@@ -52,18 +52,11 @@ https://zozotv.xyz/live/faizal1998/zoz161/33.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="105.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima D
+#EXTINF:-1 tvg-id="105.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima D (Ria)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Prima.m3u8
 
-#EXTINF:-1 tvg-id="105.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima E
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1702
-
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",108 Citra
+#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",108 Citra Njoi
 https://zozotv.xyz/live/faizal1998/zoz161/36.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROCITRA.png" group-title="Malaysia",Astro Citra B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroCitra.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -71,24 +64,8 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/Astro
 #EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",Astro Sensasi
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Sensasi.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROSENSASI.png" group-title="Malaysia",Astro Sensasi B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroSensasi.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROAURA.png" group-title="Malaysia",Astro Aura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroAura.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROAURA.png" group-title="Malaysia",Astro Aura B
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/71025
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTRORANIA.png" group-title="Malaysia",Astro Rania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroRania.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq1LM7TL/Astro-Oasis.png" group-title="MALAYSIA", ASTRO WARNA
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706
-##https://malay.yurendtv.biz.id/dash-wv/linear/2505/default_primary.mpd
+https://malay.yurendtv.biz.id/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Test",Astro Boo
 https://zozotv.xyz/live/faizal1998/zoz161/408.ts
@@ -432,6 +409,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="Malay Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
+#https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
+#https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1bhttps://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.134-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="Malay Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
 
 
 ##############################################################################Astro Sports####################################################################################
