@@ -84,38 +84,38 @@ https://zozotv.xyz/live/faizal1998/zoz161/31.ts
 https://zozotv.xyz/live/faizal1998/zoz161/1908.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Siar
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Test",121 Siar
 https://zozotv.xyz:443/live/faizal1998/zoz161/1912.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dunia Senima
+
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Test",128 Dunia Sinema
 https://zozotv.xyz:443/live/faizal1998/zoz161/1909.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Degup
+
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Test",120 Degup
 https://zozotv.xyz:443/live/faizal1998/zoz161/1908.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BOO (Malay)
+
+#EXTINF:-1 tvg-id="404.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",404 Astro Boo
 https://zozotv.xyz:443/live/faizal1998/zoz161/408.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO
-https://zozotv.xyz:443/live/faizal1998/zoz161/96.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO (ID)
-https://zozotv.xyz:443/live/faizal1998/zoz161/693.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO Hits
-https://zozotv.xyz:443/live/faizal1998/zoz161/97.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO Family
-https://zozotv.xyz:443/live/faizal1998/zoz161/98.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO Signature
-https://zozotv.xyz:443/live/faizal1998/zoz161/99.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ShowCase Movies
-https://zozotv.xyz:443/live/faizal1998/zoz161/385.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rock Action
+
+#EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Test",474 Rock Action
 https://zozotv.xyz:443/live/faizal1998/zoz161/89.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rock Entertainment
+
+#EXTINF:-1 tvg-id="473.unifi" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Test",473 Rock Entertainment
 https://zozotv.xyz:443/live/faizal1998/zoz161/88.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Galaxy
+
+#EXTINF:-1 tvg-id="GALAXY.id" tvg-name="GALAXY" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Test",Galaxy
 https://zozotv.xyz:443/live/faizal1998/zoz161/108.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Galaxy Premium
+
+#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Test",Galaxy Premium
 https://zozotv.xyz:443/live/faizal1998/zoz161/109.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemax
+
+#EXTINF:-1 tvg-id="611" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809084408736zam.png" group-title="Test",Cinemax
 https://zozotv.xyz:443/live/faizal1998/zoz161/107.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Studio Universal
+
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/8L2TrMtD/images.png" group-title="Test",Studio Universal
 https://zozotv.xyz:443/live/faizal1998/zoz161/4599.ts
+
+
+##########
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemachi
 https://zozotv.xyz:443/live/faizal1998/zoz161/2000.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemachi Action
@@ -134,54 +134,81 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/394.ts
 https://zozotv.xyz:443/live/faizal1998/zoz161/395.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",My Family
 https://zozotv.xyz:443/live/faizal1998/zoz161/396.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&Prive HD
+#############
+
+#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/105.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",&Flix HD
+
+#EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sony PIX
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Movies
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Test" group-title="Test",Star Movies
 https://zozotv.xyz:443/live/faizal1998/zoz161/299.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Movies Select
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
 https://zozotv.xyz:443/live/faizal1998/zoz161/300.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HITS Movies
+
+#EXTINF:-1 tvg-id="706.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",706 Hits 
 https://zozotv.xyz:443/live/faizal1998/zoz161/110.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Thrill
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.postimg.cc/j59sjVGf/Thrill.png" group-title="Test",Thrill
 https://zozotv.xyz:443/live/faizal1998/zoz161/112.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena
+
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Test",801 Astro Arena
 https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena 2
+
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Test",802 Astro Arena 2
 https://zozotv.xyz:443/live/faizal1998/zoz161/400.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena Bola (720p)
+
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Test",803 Astro Arena Bola
 https://zozotv.xyz:443/live/faizal1998/zoz161/791.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena Bola (1080p)
+
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Sports",803 Astro Arena Bola
 https://zozotv.xyz:443/live/faizal1998/zoz161/802.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena Bola 2
+
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",804 Astro Arena Bola 2
 https://zozotv.xyz:443/live/faizal1998/zoz161/4557.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena Bola 2 (FHD)
+
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",804 Astro Arena Bola 2
 https://zozotv.xyz:443/live/faizal1998/zoz161/792.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League
+
+#EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",811 Astro Premier League
 https://zozotv.xyz:443/live/faizal1998/zoz161/156.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League (B)
+
+#EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",811 Astro Premier League B
 https://zozotv.xyz:443/live/faizal1998/zoz161/568.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League 2
+
+#EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",812 Astro Premier League 2
 https://zozotv.xyz:443/live/faizal1998/zoz161/157.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League 2 (B)
+
+#EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",812 Astro Premier League 2 B
 https://zozotv.xyz:443/live/faizal1998/zoz161/569.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League 3
+
+#EXTINF:-1 tvg-id="813.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png",813 Astro Premier League 3
 https://zozotv.xyz:443/live/faizal1998/zoz161/2204.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Premier League 3 (B)
+
+#EXTINF:-1 tvg-id="813.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png",813 Astro Premier League 3 B
 https://zozotv.xyz:443/live/faizal1998/zoz161/2205.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Football
+
+#EXTINF:-1 tvg-id="814.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",814 Astro Football
 https://zozotv.xyz:443/live/faizal1998/zoz161/158.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Badminton
+
+#EXTINF:-1 tvg-id="815.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",815 Astro Badminton
 https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Badminton 2 ( Live only)
+
+#EXTINF:-1 tvg-id="816.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png",816 Astro Badminton 2 (Live)
 https://zozotv.xyz:443/live/faizal1998/zoz161/2342.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport Plus
+
+#EXTINF:-1 tvg-id="817.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",817 Astro Sports Plus
 https://zozotv.xyz:443/live/faizal1998/zoz161/482.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Grandstand
+
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",810 Astro Grandstand
 https://zozotv.xyz:443/live/faizal1998/zoz161/570.ts
+
+###############
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DAZN 1
 https://zozotv.xyz:443/live/faizal1998/zoz161/571.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DAZN 2
@@ -198,26 +225,11 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/2207.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Test",801 Astro Arena B
-https://zozotv.xyz/live/faizal1998/zoz161/154.ts
-
-#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Test",802 Astro Arena 2 B
-https://zozotv.xyz/live/faizal1998/zoz161/400.ts
-
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Test",803 Astro Arena Bola (720p)
-https://zozotv.xyz/live/faizal1998/zoz161/791.ts
-
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Test",803 Astro Arena Bola
-https://zozotv.xyz/live/faizal1998/zoz161/802.ts
-
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Test",803 Astro Arena Bola B
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Test",804 Astro Arena Bola 2 B
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Test",804 Astro Arena Bola 2 C
-https://zozotv.xyz/live/faizal1998/zoz161/792.ts
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",812 Astro Premier League 2
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -258,7 +270,7 @@ https://get.perfecttv.net/mutv.mpd
 #EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Test",Sky Sport F1
 http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/35244.ts
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="Test", SKY_RACE
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="Test", Sky Race
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyrace.m3u8
 
 
@@ -279,12 +291,6 @@ https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
-https://zozotv.xyz/live/faizal1998/zoz161/104.ts
-
-#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
-https://zozotv.xyz/live/faizal1998/zoz161/105.ts
-
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="Test",Miramax 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
@@ -304,20 +310,11 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD
-https://zozotv.xyz/live/faizal1998/zoz161/298.ts
-
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="Test" tvg-id="starmovies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Test",Star Movies A
-https://zozotv.xyz/live/faizal1998/zoz161/299.ts
-
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Test" group-title="Test",Star Movies B
 http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
-https://zozotv.xyz/live/faizal1998/zoz161/300.ts
 
 #EXTINF:-1 tvg-id="ActionHollywoodMovies.in" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Test",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
