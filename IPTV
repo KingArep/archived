@@ -31,9 +31,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3 E
-https://tzh911.qzz.io/play-smt.php?id=TV3
-
 
 
 #############################################################################   Astro 3  ####################################################################################
@@ -106,9 +103,6 @@ https://zozotv.xyz/live/faizal1998/zoz161/36.ts
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",108 Citra Njoi B
 https://urlcuriperfecttv.digital-hubmy.workers.dev/citrabackup?t=32crh8r74328344
 
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",108 Citra Njoi C (Jika Lag Cuba Server Lain)
-https://vidaku.b-cdn.net/block/401new/stream.mpd
-
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Test",108 Astro Citra
 https://zozotv.xyz:443/live/faizal1998/zoz161/37.ts
 
@@ -152,16 +146,22 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/1909.ts
 
 
 
-#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
+#EXTINF:-1 tvg-id="Pri.IN" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/105.ts
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/104.ts
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD
+#EXTINF:-1 tvg-id="SonyPix.in@SD" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
 
-#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="Test",Miramax 
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD Same
+https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
+
+#EXTINF:-1 tvg-id="sony1000009258" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD Same 2
+https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
+
+#EXTINF:-1 tvg-id="Miramax" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="Test",Miramax 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -472,10 +472,10 @@ http://supersonictv.live:8080/Allen123/Allen123/85574
 #EXTINF: -1 tvg-id="611" tvg-chno="16" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Test", Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF: -1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Test", Makkal TV
+#EXTINF: -1 tvg-id="392" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Test", Makkal TV
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF: -1 tvg-id="334" tvg-chno="29" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="Test", DD Tamil
+#EXTINF: -1 tvg-id="334" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="Test", DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
 #EXTINF:-1  tvg-name="Rasi TV" group-title="Test" tvg-logo="https://content.jdmagicbox.com/comp/srivilliputtur/n6/9999p4563.4563.221008173401.j7n6/catalogue/-20hwojw4xr.jpg",Tamilmagan TV HD
@@ -615,6 +615,8 @@ https://cutt.ly/AtypQje0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Crimeinvestigation.svg" group-title="Test",Crime Investigation
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
+#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" group-title="Test",WWE Superstar Central (USA)
+https://jmp2.uk/stvp-US700005ID
 
 
 
@@ -622,23 +624,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8|http-user-agent=
 
 
 
-
-#EXTINF: -1 tvg-id="ts663" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="Test", Tata Play Tamil Cinema
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:33:64:37&stream=155883&extension=ts
-
-#EXTINF: -1 tvg-id="ts789" group-title="Test" tvg-logo="https://tatalogo.pages.dev/1167.png", Tata Play Hollywood Local
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:33:64:37&stream=1097661&extension=ts
-
-#EXTINF:-1 tvg-id="CHN" group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" ,beIN Sports 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-https://converse.nathcreqtives.com/astro/5085/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY3NDUwNjg3LCJleHAiOjE3Njc4Njk4NjEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2Nzg2OTg2MX0.9puUPiDaydWR5UrF3UH3V1m2ZecC_eJgR9b3o9qZZQI
-
-#EXTINF:-1 tvg-id="CHN" group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ,beIN Sports 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
-https://converse.nathcreqtives.com/astro/5086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY3NDUwNjg3LCJleHAiOjE3Njc4Njk4NjEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2Nzg2OTg2MX0.9puUPiDaydWR5UrF3UH3V1m2ZecC_eJgR9b3o9qZZQI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -647,8 +632,5 @@ http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_C
 
 #EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network
 http://cord-cutter.net:8080/hq3y4G/234247/11645
-
-#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" tvg-chno="2904" group-title="Test",WWE Superstar Central (USA)
-https://jmp2.uk/stvp-US700005ID
 
 
