@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epg.pw/xmltv/epg_MY.xml," refresh="1440" billed-msg="KingArep"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epg.pw/xmltv/epg_IN.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epg.pw/xmltv/epg_MY.xml," refresh="1440" billed-msg="KingArep"
 
 
 ##################################################################################  TV3   ###################################################################################
@@ -159,6 +159,9 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
 https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
 
 #EXTINF:-1 tvg-id="sony1000009258" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD Same 2
+https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
+
+#EXTINF:-1 tvg-id="463869" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD Same 3
 https://zozotv.xyz:443/live/faizal1998/zoz161/298.ts
 
 #EXTINF:-1 tvg-id="Miramax" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="Test",Miramax 
