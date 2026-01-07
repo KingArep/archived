@@ -124,10 +124,10 @@ https://urlcuriperfecttv.digital-hubmy.workers.dev/citra?t=32crh8r74328344
 
 
 
-#EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
+#EXTINF:-1 tvg-id="112.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 https://zozotv.xyz:443/live/faizal1998/zoz161/39.ts
 
-#EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
+#EXTINF:-1 tvg-id="113.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 https://zozotv.xyz:443/live/faizal1998/zoz161/38.ts
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Test",Astro Boo
@@ -192,10 +192,10 @@ http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Test",Star Movies Select
 https://zozotv.xyz:443/live/faizal1998/zoz161/300.ts
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="MOVIES",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Test",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="Test",Moviesphere Free
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-name="MovieSphere By Lionsgate" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-title="Test",MovieSphere By Lionsgate
@@ -645,7 +645,7 @@ https://converse.nathcreqtives.com/astro/5086/manifest.mpd?token=eyJhbGciOiJIUzI
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/wwe-network.png" group-title="Test",WWE
 http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network
 http://cord-cutter.net:8080/hq3y4G/234247/11645
 
 #EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" tvg-chno="2904" group-title="Test",WWE Superstar Central (USA)
