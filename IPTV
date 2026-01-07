@@ -149,7 +149,13 @@ https://zozotv.xyz:443/live/faizal1998/zoz161/1909.ts
 #EXTINF:-1 tvg-id="Pri.IN" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD
 https://zozotv.xyz:443/live/faizal1998/zoz161/105.ts
 
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Test",&Prive HD 2
+https://zozotv.xyz:443/live/faizal1998/zoz161/105.ts
+
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD
+https://zozotv.xyz:443/live/faizal1998/zoz161/104.ts
+
+#EXTINF:-1 tvg-id="FLIX" tvg-name="&Flix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Test",&Flix HD 2
 https://zozotv.xyz:443/live/faizal1998/zoz161/104.ts
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Test",Sony Pix HD
