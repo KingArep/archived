@@ -329,6 +329,8 @@ https://get.perfecttv.net/mutv.mpd
 #EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Test",Sky Sport F1
 http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/35244.ts
 
+#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" group-title="Test",WWE Superstar Central (USA)
+https://jmp2.uk/stvp-US700005ID
 
 ############################################################################  Bollywood  ####################################################################################
 
