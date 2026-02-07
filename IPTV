@@ -4,7 +4,7 @@
 
 ##############################################################################  TV3   #######################################################################################
 
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3 3 C (Perfect)
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="TV", TV3 3 C (Perfect)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,11 +15,11 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&chan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Test", TV3 D (Astro)
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="TV", TV3 D (Astro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="104.astro" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 Astro Ria C
+#EXTINF:-1 tvg-id="104.astro" group-title="TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 Astro Ria C
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
@@ -71,10 +71,10 @@ https://starshare.live:443/live/star123/star123/191.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",group-title="Movie",Star Movies B
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",group-title="Movie",Star Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movie",Star Movies C
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movie",Star Movies B
 http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movie",Star Movies Select
@@ -187,12 +187,6 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Bolly",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="BollywoodHD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Bolly",BollywoodHD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="bollywood-classic" tvg-name="BollywoodClassic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" group-title="Bolly",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
 #EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="ShemarooBollywood.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Bolly",Shemaroo Bollywood 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
@@ -228,32 +222,38 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",STAR GOLD HD
-http://supersonictv.live:8080/Allen123/Allen123/85545
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly" group-title="Test",SAB TV HD
-http://supersonictv.live:8080/Allen123/Allen123/85547
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",SONY MAX 2
-http://supersonictv.live:8080/Allen123/Allen123/85548
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",STAR MOVIES FHD
-http://supersonictv.live:8080/Allen123/Allen123/85549
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",BOLLYWOOD PREMIER FHD
-http://supersonictv.live:8080/Allen123/Allen123/85550
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",COLORS CINEPLEX HD
-http://supersonictv.live:8080/Allen123/Allen123/85551
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Zee Bollywood
 http://supersonictv.live:8080/Allen123/Allen123/85552
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",COLORS HD
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="BollywoodHD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Bolly",BollywoodHD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-classic" tvg-name="BollywoodClassic" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" group-title="Bolly",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Bollywood Premier FHD
+http://supersonictv.live:8080/Allen123/Allen123/85550
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Star Gold HD
+http://supersonictv.live:8080/Allen123/Allen123/85545
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Star Movies FHD
+http://supersonictv.live:8080/Allen123/Allen123/85549
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Colors Cineplex HD
+http://supersonictv.live:8080/Allen123/Allen123/85551
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Colors HD
 http://supersonictv.live:8080/Allen123/Allen123/85572
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",COLORS MARATHI HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Colors Marathi HD
 http://supersonictv.live:8080/Allen123/Allen123/85574
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly",Sony Max 2
+http://supersonictv.live:8080/Allen123/Allen123/85548
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bolly" group-title="Bolly",SAB TV HD
+http://supersonictv.live:8080/Allen123/Allen123/85547
 
 ################################################################################ TAMIL ######################################################################################
 
