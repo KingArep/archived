@@ -133,7 +133,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Crimeinvestigation.svg" group-title="Movies",Crime Investigation
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Crimeinvestigation.svg" group-title="Movie",Crime Investigation
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
 
